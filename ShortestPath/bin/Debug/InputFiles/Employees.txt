@@ -1,0 +1,14 @@
+Employee ID | Name            
+1           | Eugene                
+2           | Jose            
+3           | Kelvin         
+4           | Terence        
+5          | Dennis          
+6          | Eunice           
+7          | Bryan          
+8          | Gabriel
+9          | Jimmy
+RELATIONS
+1, 2, 3, 4 
+2, 5, 6, 7
+6, 8, 9
